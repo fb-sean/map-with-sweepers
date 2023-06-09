@@ -1,8 +1,8 @@
-# sean.js
+# map-with-sweepers
 
 [![discordBadge](https://img.shields.io/badge/Chat-Click%20here-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/ZVERh35)
-[![downloadsBadge](https://img.shields.io/npm/dt/sean.js?style=for-the-badge)](https://npmjs.com/map-with-sweepers)
-[![versionBadge](https://img.shields.io/npm/v/sean.js?style=for-the-badge)](https://npmjs.com/map-with-sweepers)
+[![downloadsBadge](https://img.shields.io/npm/dt/map-with-sweepers?style=for-the-badge)](https://npmjs.com/map-with-sweepers)
+[![versionBadge](https://img.shields.io/npm/v/map-with-sweepers?style=for-the-badge)](https://npmjs.com/map-with-sweepers)
 
 <div align="left">
   <p>
