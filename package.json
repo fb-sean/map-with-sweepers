@@ -1,0 +1,28 @@
+{
+  "name": "map-with-sweepers",
+  "version": "1.0.0",
+  "description": "A simple package that allows you to create a map with sweepers.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "tsc && node dist/test/index.js",
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "contributors": [
+    "Sean Sattler <sean@sattler.dev>"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "utility",
+    "map"
+  ],
+  "dependencies": {
+    "@types/node": "^20.2.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
